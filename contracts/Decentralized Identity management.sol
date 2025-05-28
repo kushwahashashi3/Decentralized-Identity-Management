@@ -3,11 +3,10 @@ pragma solidity ^0.8.19;
 
 /**
  * @title Decentralized Identity Management
- * @dev A smart contract for managing decentralized identities with credential verification
+ * @dev A smart contract for managing decentralized identities witredential verification
  * @author Decentralized Identity Management Team
  */
-contract DecentralizedIdentityManagement {
-    
+contract DecentralizedIdentityManagement
     // Structure to store identity information
     struct Identity {
         string name;
