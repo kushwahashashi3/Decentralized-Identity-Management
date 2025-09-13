@@ -1,6 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
-
+pragma solidity ^0.8.19
 /**
  * @title Decentralized Identity Management
  * @dev A smart contract for managing decentralized identities with credential verification
